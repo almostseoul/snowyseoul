@@ -10,5 +10,5 @@
 <br/>
 
 ### 사용  
-> pip install git+https://github.com/almostseoul/snowyseoul.git  
+> pip install git+https://github.com/acheul/snowyseoul.git  
 > from chosun_pop import *
